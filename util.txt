@@ -1,0 +1,14 @@
+1. [URL01]:
+https://github.com/Rafaekhatri11/Give-Your-Application-Auto-Deploy-SuperPower
+
+2. [URL02];
+https://udapeoplebucket-1010.s3.amazonaws.com/index.html
+
+3. [URL03]:
+d212jv5x1d7qsf.cloudfront.net
+
+4. [URL04]:
+http://34.203.13.67:3030/
+
+5. [URL05]:
+http://ec2-100-25-17-141.compute-1.amazonaws.com:9090/targets
