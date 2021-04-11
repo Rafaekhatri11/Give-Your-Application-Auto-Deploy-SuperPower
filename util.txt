@@ -2,7 +2,7 @@
 https://github.com/Rafaekhatri11/Give-Your-Application-Auto-Deploy-SuperPower
 
 2. [URL02];
-https://udapeoplebucket-1010.s3.amazonaws.com/index.html
+http://udapeoplebucket-1010.s3.amazonaws.com/index.html
 
 3. [URL03]:
 d212jv5x1d7qsf.cloudfront.net
